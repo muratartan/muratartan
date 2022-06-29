@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Murat
 
-<br />
+
 
 - 🌱 I’m currently learning Rust and Solidity
 
