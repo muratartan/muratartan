@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Rust and Solidity
+- 🌱 I’m currently learning Rust
 
 
 
