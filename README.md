@@ -2,10 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust and AWS
 
-
-
-- 📫 How to reach me: muratartan@hotmail.com
 
 
