@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Rust and AWS
+- 🌱 I’m currently learning Rust, AWS and Docker
 
 
 
