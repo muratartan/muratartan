@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Rust, AWS and Docker
+- 🌱 I’m a Rust developer and blockchain enthusiast, writing smart contracts using Rust, highly interested in Zero-Knowledge technology
 
 
 
