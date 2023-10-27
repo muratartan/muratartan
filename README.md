@@ -2,8 +2,8 @@
 
 
 
-- 🌱 a Rust developer and blockchain enthusiast
-- 🌱 writing smart contracts using Rust
-- 🌱 highly interested in Zero-Knowledge technology
+- 🌱 A Rust developer and blockchain enthusiast
+- 🌱 Writing smart contracts using Rust
+- 🌱 Highly interested in Zero-Knowledge technology
 
 
